@@ -7,6 +7,6 @@ using json;
 CryptoGraphy.MessageSignatureDemo();
 
 
-Console.WriteLine("End of Project");
+Console.WriteLine("End");
 
 Console.ReadLine();
